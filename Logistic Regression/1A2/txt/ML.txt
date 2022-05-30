@@ -1,0 +1,9 @@
+# Data preprocessing Procedure
+a. Importing the libraries
+b. Importing the dataset
+c. Taking care of missing data
+d. Encoding categorical data: Categorical columns can be encoded either by using one-hot encoding or label encoding.
+e. Normalizing the data: Feature scaling is bringing all of the features on the dataset to the same scale.
+f. Splitting the data into test and train and finding the X and Y datasets
+
+# Activation Function
